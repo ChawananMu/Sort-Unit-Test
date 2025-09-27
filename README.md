@@ -1,10 +1,16 @@
 ## Setup
 
 1. Install dependencies:
-# npm install
+```bash
+npm install
+```
 
 2. Build the project:
-# npm run build
+```bash
+npm run build
+```
 
 3. Run tests:
+```bash
 # npm test
+```
