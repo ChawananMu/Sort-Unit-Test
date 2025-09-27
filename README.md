@@ -12,5 +12,5 @@ npm run build
 
 3. Run tests:
 ```bash
-# npm test
+npm test
 ```
